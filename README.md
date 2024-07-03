@@ -81,8 +81,10 @@ options:
 python fuckeditor.py -t targets.txt -f 
 ```
 
-## Results
+## License
+FUCKeditor is licensed under the GNU GPL license. Take a look at the [LICENSE](https://github.com/mactronmedia/FUCKeditor/blob/main/LICENSE) for more information.
 
+## Results
 ![Results](results.png)
 
 ## Disclaimer
