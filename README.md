@@ -6,9 +6,9 @@ A vulnerability scanner for FCKeditor instances, capable of detecting specific t
 
 ## Table of Contents
 - [Overview](#overview)
-- [Usage](#usage)
 - [Features](#features)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Options](#options)
 - [Results](#results)
 
@@ -25,8 +25,8 @@ This Python script scans a list of target URLs for FCKeditor instances and ident
 
 **Outputs results:**
 
-**- Successes:** URLs with titles indicating a vulnerable FCKeditor installation are written to a success.txt file.
-**- Informative messages:** Provides feedback on the scan progress and encountered issues.
+- **Successes:** URLs indicating a vulnerable FCKeditor installation are written to a success.txt file.
+- **Informative messages:** Provides feedback on the scan progress and encountered issues.
 
 **Error handling:**
 - Catches connection timeouts and gracefully skips those URLs.
