@@ -64,14 +64,19 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-- -t, TARGETS_FILE: Specify the targets file (default: targets.txt).
-- -q, --quick-scan: Perform a common scan using common_prefixes.txt.
-- -f, --full-scan: Perform a full scan using full_prefixes.txt.
+usage: fuckeditor.py [-h] [-t TARGETS_FILE] [-f] [-q]
+
+FCKeditor Vulnerability Scanner
+
+options:
+  -h, --help        show this help message and exit
+  -t TARGETS_FILE   Specify the targets file (default: targets.txt)
+  -f, --full-scan   Perform a full scan using full_prefixes.txt
+  -q, --quick-scan  Perform a common scan using common_prefixes.txt
 ```
 
 ### Example
 ```bash
-python fuckeditor.py [-h] [-t TARGETS_FILE] [-f] [-q]
 python fuckeditor.py -t targets.txt -f 
 ```
 
