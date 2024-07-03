@@ -18,15 +18,17 @@ This Python script scans a list of target URLs for FCKeditor instances and ident
 
 ## Features
 
-Performs scans using two methods:
-Quick Scan: Utilizes a predefined list of common prefixes to explore potentially vulnerable locations.
-Full Scan (Optional): Employs a more extensive list of prefixes for a more thorough check, but may take longer.
-Outputs results:
-Successes: URLs with titles indicating a vulnerable FCKeditor installation are written to a success.txt file.
-Informative messages: Provides feedback on the scan progress and encountered issues.
-Error handling:
-Catches connection timeouts and gracefully skips those URLs.
-Handles general request exceptions and logs them for debugging.
+**Performs scans using two methods:**
+**- Quick Scan:** Utilizes a predefined list of common prefixes to explore potentially vulnerable locations.
+**- Full Scan (Optional):** Employs a more extensive list of prefixes for a more thorough check, but may take longer.
+
+**Outputs results:**
+**- Successes:** URLs with titles indicating a vulnerable FCKeditor installation are written to a success.txt file.
+**- Informative messages:** Provides feedback on the scan progress and encountered issues.
+
+**Error handling:**
+- Catches connection timeouts and gracefully skips those URLs.
+- Handles general request exceptions and logs them for debugging.
 
 ## Prerequisites && Installation
 
