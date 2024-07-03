@@ -13,13 +13,14 @@ A vulnerability scanner for an old FCKeditor, capable of detecting specific titl
 - [Results](#results)
 
 ## Overview
-This Python script scans a list of target URLs for FCKeditor instances and identifies potential vulnerabilities based on the title of the returned pages. 
 
 There are numerous websites that still use the outdated FCKEditor, which is plagued by various vulnerabilities, including "Arbitrary File Upload", "Remote Code Execution (RCE)" and Cross-Site Scripting (XSS)". 
 
-FCKEditor allows remote attackers to execute arbitrary code by creating a PHP file, and it also permits them to inject arbitrary web scripts or HTML via components in its samples.
+These vulnerabilities allow remote attackers to execute arbitrary code by creating a PHP file and to inject arbitrary web scripts or HTML via components in FCKEditor samples.
 
-References: CVE-2009-2265, CVE-2008-6178, CVE-2009-2324
+References: [CVE-2008-6178](https://www.cvedetails.com/cve/CVE-2008-6178/), [CVE-2009-2265](https://www.cvedetails.com/cve/CVE-2009-2265/), [CVE-2009-2324](https://www.cvedetails.com/cve/CVE-2009-2324/)
+
+To assess potential risks, this Python script scans a list of target URLs for instances of FCKEditor and identifies vulnerabilities based on the titles of returned pages.
 
 ## Features
 
