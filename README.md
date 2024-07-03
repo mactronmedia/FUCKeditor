@@ -1,6 +1,20 @@
 # FCKeditor Vulnerability Scanner
 
+![Banner](banner_image.png)
+
+A vulnerability scanner for FCKeditor instances, capable of detecting specific titles indicative of vulnerable installations.
+
+## Table of Contents
+- [Overview](#overview)
+- [Usage](#usage)
+- [Features](#features)
+- [Installation](#installation)
+- [Options](#options)
+- [License](#license)
+
+## Overview
 This Python script scans a list of target URLs for FCKeditor instances and identifies potential vulnerabilities based on the title of the returned pages.
+
 
 ## Features
 
