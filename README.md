@@ -2,7 +2,7 @@
 
 ![Banner](banner.png)
 
-fuckeditor is a Python scanner for an old FCKEditor, capable of detecting specific titles that indicate vulnerable installations, designed for penetration testers and bug hunters.
+FUCKeditor is a Python scanner for an old FCKEditor, capable of detecting specific titles that indicate vulnerable installations, designed for penetration testers and bug hunters.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -86,6 +86,6 @@ python fuckeditor.py -t targets.txt -f
 ![Results](results.png)
 
 ## Disclaimer
-Running "fuckeditor" against websites without prior mutual consent may be illegal in your country. I accept no liability and am not responsible for any misuse or damage caused by "fuckeditor".
+Running FUCKeditor against websites without prior mutual consent may be illegal in your country. I accept no liability and am not responsible for any misuse or damage caused by this tool.
 
 
