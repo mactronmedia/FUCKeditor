@@ -64,16 +64,19 @@ pip install -r requirements.txt
 
 ## Usage
 
--t TARGETS_FILE: Specify the targets file (default: targets.txt).
--f, --full-scan: Perform a full scan using full_prefixes.txt.
--q, --quick-scan: Perform a common scan using common_prefixes.txt.
+- -t, TARGETS_FILE: Specify the targets file (default: targets.txt).
+- -q, --quick-scan: Perform a common scan using common_prefixes.txt.
+- -f, --full-scan: Perform a full scan using full_prefixes.txt.
 
 ```bash
 python fuckeditor.py [-h] [-t TARGETS_FILE] [-f] [-q]
+python fuckeditor.py -t targets.txt -f 
 ```
 
 ## Results
 
 ![Results](results.png)
+
+ 
 
 
