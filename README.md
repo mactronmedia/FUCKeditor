@@ -14,9 +14,9 @@ A vulnerability scanner for an old FCKeditor, capable of detecting specific titl
 
 ## Overview
 
-There are numerous websites that still use the outdated FCKEditor, which is plagued by various vulnerabilities, including "Arbitrary File Upload", "Remote Code Execution (RCE)" and Cross-Site Scripting (XSS)". 
+Cyber threat actors are exploiting a CMS editor, FCKeditor, discontinued 14 years ago, to compromise educational and government entities on a global scale. Exploiting open redirects in the editor, attackers perform phishing, malware distribution, and scams, deceiving users with seemingly legitimate domains. As open redirects use trusted domains, they can evade security filters and gain visibility in search engine results, making them effective in SEO poisoning campaigns. Despite not hosting malicious content directly, these open redirects persist in search results until reported for takedown.
 
-These vulnerabilities allow remote attackers to execute arbitrary code by creating a PHP file and to inject arbitrary web scripts or HTML via components in FCKEditor samples.
+There are numerous websites that still use the outdated FCKEditor, which is plagued by various vulnerabilities, including "Arbitrary File Upload", "Remote Code Execution (RCE)" and Cross-Site Scripting (XSS)". These vulnerabilities allow remote attackers to execute arbitrary code by creating a PHP file and to inject arbitrary web scripts or HTML via components in FCKEditor samples.
 
 References: [CVE-2008-6178](https://www.cvedetails.com/cve/CVE-2008-6178/), [CVE-2009-2265](https://www.cvedetails.com/cve/CVE-2009-2265/), [CVE-2009-2324](https://www.cvedetails.com/cve/CVE-2009-2324/)
 
