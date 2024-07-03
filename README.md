@@ -7,7 +7,7 @@ A vulnerability scanner for an old FCKeditor, capable of detecting specific titl
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Prerequisites && Installation](#prerequisitesinstallation)
+- [Prerequisites && Installation](#prerequisites--installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Disclaimer](#disclaimer)
@@ -86,6 +86,6 @@ python fuckeditor.py -t targets.txt -f
 ![Results](results.png)
 
 ## Disclaimer
-**Running "fuckeditor" against websites without prior mutual consent may be illegal in your country. I accept no liability and am not responsible for any misuse or damage caused by "fuckeditor".**
+Running "fuckeditor" against websites without prior mutual consent may be illegal in your country. I accept no liability and am not responsible for any misuse or damage caused by "fuckeditor".
 
 
