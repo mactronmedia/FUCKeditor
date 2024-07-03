@@ -62,4 +62,8 @@ pip install -r requirements.txt
 python fuckeditor.py [-h] [-t TARGETS_FILE] [-f] [-q]
 ```
 
+## Results
+
+![Results](results.png)
+
 
