@@ -1,6 +1,6 @@
 # FCKeditor Vulnerability Scanner
 
-This is a Python script designed to scan websites for potential FCKeditor vulnerabilities. It leverages common and full prefixes to explore potential vulnerable URLs.
+This Python script scans a list of target URLs for FCKeditor instances and identifies potential vulnerabilities based on the title of the returned pages.
 
 ## Features
 
@@ -21,7 +21,7 @@ Handles general request exceptions and logs them for debugging.
 Python 3 (tested with 3.x on ArchLinux, & KaliLinux)
 ```
 
-Required libraries:
+**Required libraries:**
 ```bash
 requests
 argparse
