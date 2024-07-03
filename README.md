@@ -43,7 +43,7 @@ To assess potential risks, this Python script scans a list of target URLs for in
 
 ### Prerequisites:
 ```bash
-Python 3 (tested with 3.x on ArchLinux, & KaliLinux)
+Python 3 (tested with 3.x on Arch Linux & Kali Linux)
 ```
 
 **Required libraries:**
