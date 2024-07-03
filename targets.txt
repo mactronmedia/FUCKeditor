@@ -1,0 +1,3 @@
+mysite1.com
+mysite2.com
+mysite3.com
