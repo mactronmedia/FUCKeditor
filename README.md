@@ -1,6 +1,6 @@
 # FCKeditor Vulnerability Scanner
 
-![Banner](banner_image.png)
+![Banner](banner.png)
 
 A vulnerability scanner for FCKeditor instances, capable of detecting specific titles indicative of vulnerable installations.
 
