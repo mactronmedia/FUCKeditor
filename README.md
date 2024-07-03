@@ -1,4 +1,4 @@
-# FCKeditor Vulnerability Scanner
+# fuckeditor - FCKeditor Vulnerability Scanner
 
 ![Banner](banner.png)
 
@@ -10,7 +10,7 @@ A vulnerability scanner for FCKeditor instances, capable of detecting specific t
 - [Features](#features)
 - [Installation](#installation)
 - [Options](#options)
-- [License](#license)
+- [Results](#results)
 
 ## Overview
 This Python script scans a list of target URLs for FCKeditor instances and identifies potential vulnerabilities based on the title of the returned pages.
