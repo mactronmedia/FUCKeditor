@@ -7,10 +7,11 @@ A vulnerability scanner for an old FCKeditor, capable of detecting specific titl
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
+- [Prerequisites && Installation](#prerequisitesinstallation)
 - [Usage](#usage)
-- [Options](#options)
 - [Results](#results)
+- [Disclaimer](#disclaimer)
+
 
 ## Overview
 
