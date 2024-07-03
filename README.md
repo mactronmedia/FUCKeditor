@@ -21,11 +21,13 @@ Handles general request exceptions and logs them for debugging.
 Python 3 (tested with 3.x)
 
 Required libraries:
+```bash
 requests
 argparse
 beautifulsoup4
 colorama (optional for colored output)
 urllib3 (may be included with requests)
+```
 
 ### Installation:
 
