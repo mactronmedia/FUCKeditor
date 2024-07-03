@@ -20,8 +20,8 @@ This Python script scans a list of target URLs for FCKeditor instances and ident
 
 **Performs scans using two methods:**
 
-**- Quick Scan:** Utilizes a predefined list of common prefixes to explore potentially vulnerable locations.
-**- Full Scan (Optional):** Employs a more extensive list of prefixes for a more thorough check, but may take longer.
+- **Quick Scan:** Utilizes a predefined list of common prefixes to explore potentially vulnerable locations.
+- **Full Scan (Optional):** Employs a more extensive list of prefixes for a more thorough check, but may take longer.
 
 **Outputs results:**
 
