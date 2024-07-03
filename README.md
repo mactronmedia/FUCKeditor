@@ -17,8 +17,9 @@ Handles general request exceptions and logs them for debugging.
 ## Prerequisites && Installation
 
 ### Prerequisites:
-
-Python 3 (tested with 3.x)
+```bash
+Python 3 (tested with 3.x on ArchLinux, & KaliLinux)
+```
 
 Required libraries:
 ```bash
