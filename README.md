@@ -1,4 +1,4 @@
-# fuckeditor - FCKeditor Vulnerability Scanner
+# FUCKeditor - FCKeditor Vulnerability Scanner
 
 ![Banner](banner.png)
 
